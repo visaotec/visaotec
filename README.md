@@ -1,4 +1,4 @@
-#### Olá! sou o Isaias, meu objetivo é compartilhar minhas idéias afim de contribuir com aqueles que fazem parte desse universo de código.
+### Olá! sou o Isaias, meu objetivo é compartilhar minhas idéias afim de contribuir com aqueles que fazem parte desse universo de códigos.
 
 
 

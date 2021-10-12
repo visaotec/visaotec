@@ -1,4 +1,4 @@
-## Hi! my name is Isaias Oliveira. Systems Analyst at UNIP. Computer Technician by IFTM. Electronics Technician by Senai.
+#### Olá! sou o Isaias, meu objetivo é compartilhar minhas idéias afim de contribuir com aqueles que fazem parte desse universo de código.
 
 
 

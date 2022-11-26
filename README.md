@@ -1,5 +1,7 @@
 
-#### * Venha participar dos projetos tornando melhores, afim de auxiliar quem precisa. Que Deus abençoe a sua vida! 
+#### *  Me descrevo como um profissional criativo com Competência e qualidade 
+#### e autodidata, tenho capacidade de aprender e me adaptar rápido. Posso ser considerado
+#### um generalista, mas gosto de me aprofundar em assuntos que despertam meu interesse.  
 ##
 
 

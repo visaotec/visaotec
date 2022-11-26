@@ -1,9 +1,4 @@
 
-#### *  Me descrevo como um profissional criativo com Competência e qualidade 
-#### e autodidata, tenho capacidade de aprender e me adaptar rápido. Posso ser considerado
-#### um generalista, mas gosto de me aprofundar em assuntos que despertam meu interesse.  
-##
-
 
 
 <div align="center">

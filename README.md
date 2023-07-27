@@ -32,7 +32,7 @@
   <p>*Sistema para oficina mecânica</p>
   <p>*Sistema controle de estoque e vendas</p>
   <p>*Sistema para assistência tecnica em eletrônicos</p>
-  <p>*Fazemos modificações no Sistema MapOS como assinatura digital para clientes e técnicos</p>
+  
   
   
  ![Snake animation](https://github.com/visaotec/visaotec/blob/output/github-contribution-grid-snake.svg) 
